@@ -6,7 +6,7 @@ I'm a passionate game developer and a computer engineering student at Hacettepe 
 I use Unity and C# mostly, but I have prior experience on JavaScript, Python, C++, Java, three.js, WebGL and shader development. I’m currently learning Shader Development. 
 
 Check my [Portfolio](https://etopuz.netlify.app/) for more.  
-Check my articles on [Medium](https://medium.com/@eensar.topuz) .
+Check my articles on [Medium](https://medium.com/@eensar.topuz).
 
 
 
